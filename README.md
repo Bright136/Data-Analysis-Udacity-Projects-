@@ -29,11 +29,40 @@ To run this project locally, follow these steps:
 3. Install the required dependencies: `pip install -r requirements.txt`
 
 ## Usage
-To use this project, follow these steps:
 
-1. Ensure that the dataset file (`datasets/tmdb-movies.csv`) is placed in the project's root directory.
-2. Run the main script: `data-analysis-on-tmdb-data.ipynb`
-3. Explore the generated visualizations and analysis results.
+
+1. Open the Anaconda terminal.
+
+2. Execute the following command to create a new Conda environment named `myenv`:
+
+```
+conda create --name myenv --file requirements.txt
+```
+
+3. Activate the environment by running the appropriate command based on your operating system:
+
+   - For Windows:
+     ```
+     conda activate myenv
+     ```
+
+   - For Linux and macOS:
+     ```
+     source activate myenv
+     ```
+
+
+4. Now you can use the newly created Conda environment with the installed libraries for your project.
+
+Remember to replace `myenv` with the desired name for your Conda environment.
+
+5. Run the command in the terminal
+
+                jupyter notebook
+
+5. Ensure that the dataset file (`datasets/tmdb-movies.csv`) is placed in the project's root directory.
+6. Run the main Notebook: `data-analysis-on-tmdb-data.ipynb`
+6. Explore the generated visualizations and analysis results.
 
 
 ## Project Structure
