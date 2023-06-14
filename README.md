@@ -26,7 +26,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/bright136/TMDB-Movies-Data-Analysis.git`
 2. Navigate to the project directory: `TMDB-Movies-Data-Analysis`
-3. Install the required dependencies: `pip install -r requirements.txt`
+
 
 ## Usage
 
