@@ -1,6 +1,7 @@
 # Movie Data Analysis
 
-![Movie Data Analysis Banner](insert_link_to_banner_image)
+![Movie Data Analysis](https://drive.google.com/uc?export=view&id=1HjFetQyX2wR3dOv7USLOnUzgrQ6NqrPv)
+
 
 ## Table of Contents
 - [Introduction](#introduction)
